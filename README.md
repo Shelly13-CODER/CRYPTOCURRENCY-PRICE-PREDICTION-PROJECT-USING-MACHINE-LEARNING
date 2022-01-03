@@ -1,2 +1,30 @@
 # CRYPTOCURRENCY-PRICE-PREDICTION-PROJECT-USING-MACHINE-LEARNING
 Bitcoin is a decentralized digital currency that uses cryptographic protocol. It is not bound or backed  by any government and works on a peer-to-peer system. Bitcoin is the world’s most valuable  cryptocurrency introduced following the release of a white-paper published in 2008 under the pseudo name Satoshi Nakamoto. Bitcoin is very different from traditional financial markets. Cryptocurrencies are fast becoming rivals to traditional currency across the world. The digital  currencies are available to purchase in many different places, making it accessible to everyone, and  with retailers accepting various cryptocurrencies it could be a sign that money as we know it is about  to go through a major change. In addition, the blockchain technology on which many cryptocurrencies are based, with its  revolutionary distributed digital backbone, has many other promising applications. Implementations of secure, decentralized systems can aid us in conquering organizational issues of trust and security that  have plagued our society throughout the ages. In effect, we can fundamentally disrupt industries core to economies, businesses and social structures, eliminating inefficiency and human error. A rising market should see rising volume. Buyers require increasing numbers and increasing  enthusiasm in order to keep pushing prices higher. Increasing price and decreasing volume show lack of interest, and this is a warning of a potential reversal. This can be hard to wrap your mind around, but the simple fact is that a price drop (or rise) on little volume is not a strong signal. A price drop (or rise) on large volume is a stronger signal that something in the stock has fundamentally changed
+
+snap shots
+
+![1](https://user-images.githubusercontent.com/83346362/147959180-1bc26c6c-1d7d-4c70-8bc9-01a7777c34d2.png)
+![2](https://user-images.githubusercontent.com/83346362/147959212-63bc12c7-7c17-4da2-9ac7-fca77b8bc041.png)
+![3](https://user-images.githubusercontent.com/83346362/147959239-147206a1-a6c4-42c7-a637-777c9a78f130.png)
+![4](https://user-images.githubusercontent.com/83346362/147959270-69bb3efa-7092-420e-9eb2-37c7c421066d.png)
+![5](https://user-images.githubusercontent.com/83346362/147959288-0b750509-f85e-4acd-bea1-643c831ed494.png)
+![6](https://user-images.githubusercontent.com/83346362/147959326-18955d75-53d8-46b1-ba29-932f0ee032a0.png)
+![7](https://user-images.githubusercontent.com/83346362/147959353-9021b545-fea5-4aae-96c1-7f48dd4e9164.png)
+![8](https://user-images.githubusercontent.com/83346362/147959356-a078b23b-658c-4c49-bbf1-11e9d891d649.png)
+![9](https://user-images.githubusercontent.com/83346362/147959365-53bcbd3a-faa1-447c-86ea-47ab99344032.png)
+![10](https://user-images.githubusercontent.com/83346362/147959372-6cd2be67-d527-4771-9d9a-d62859dbdbdd.png)
+![11](https://user-images.githubusercontent.com/83346362/147959374-565ab966-7ec6-43d0-af9e-6f0a4539c0c3.png)
+![12](https://user-images.githubusercontent.com/83346362/147959378-6b6e9b59-4a1f-47c7-809b-ac517d165a5e.png)
+![13](https://user-images.githubusercontent.com/83346362/147959384-a4a0823a-ffc5-4d2a-8e4d-fbcc113e0361.png)
+![14](https://user-images.githubusercontent.com/83346362/147959389-7fa82ec6-c94e-4b77-9a4e-3a7560cd6dde.png)
+![15](https://user-images.githubusercontent.com/83346362/147959394-ca58b5f8-dced-4761-9c45-2329156ae4d6.png)
+![16](https://user-images.githubusercontent.com/83346362/147959404-3c71ace7-9b68-4e33-ac27-1991058fa398.png)
+![17](https://user-images.githubusercontent.com/83346362/147959408-18311963-a71e-4221-a8f2-67d1940e003a.png)
+![18](https://user-images.githubusercontent.com/83346362/147959410-a869bab3-9381-4575-adbc-76ed93fb0c38.png)
+![19](https://user-images.githubusercontent.com/83346362/147959413-f875f6ad-227a-4ea9-ae99-c50cbb8fb026.png)
+![20](https://user-images.githubusercontent.com/83346362/147959415-2822d940-8229-429b-a462-a6dcc4bcf90b.png)
+![21](https://user-images.githubusercontent.com/83346362/147959420-15199ce3-402e-4d05-991d-94b52e011d9d.png)
+![22](https://user-images.githubusercontent.com/83346362/147959425-525227da-c9cb-4b32-9153-93f51a8e73c8.png)
+![23](https://user-images.githubusercontent.com/83346362/147959430-d71ec4b7-c3a6-4d07-96e4-87aab492b1f6.png)
+![24](https://user-images.githubusercontent.com/83346362/147959434-5081bed2-3931-444d-9a36-042711e042ed.png)
+![25](https://user-images.githubusercontent.com/83346362/147959438-12671565-e294-4ec0-9656-ef6866b058e0.png)
