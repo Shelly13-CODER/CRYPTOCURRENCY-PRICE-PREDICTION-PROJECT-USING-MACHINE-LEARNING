@@ -5,19 +5,28 @@ Bitcoin is a decentralized digital currency that uses cryptographic protocol. It
 • Specifications
 The project deeply focuses on the Slug category which means name of the crypto currency along 
 with the
+
 ➢ Symbols, including more than 1400 cryptocurrencies including Bitcoin, Litecoin, Ethereum 
 etc.
+
 ➢ Volume is a measure of how much of a given financial asset has been traded in a given period
 of time and even though so simple, it can be a powerful indicator fortrading.
+
 ➢ Open is the price of the stock at the beginning of the trading day (it need not be the closing
 price of the previous trading day).
+
 ➢ High is the highest price of the stock on that Trading Day
+
 ➢ Low the lowest price of the stock on that Trading Day
+
 ➢ Close the price of the stock at closing time.
+
 ➢ Market, also known as Market Capitalization, is obtained by multiplying the circulating 
 supply of coins by the current coin price. It is one way to rank the relative size of a 
 cryptocurrency.
+
 ➢ Ranknow depicting the rank of each cryptocurrency starting from 1 to 1400
+
 ➢ Spread depicting the difference between the buying and selling price of a cryptocurrency
 
 • Features
